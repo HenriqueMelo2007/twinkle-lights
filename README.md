@@ -1,6 +1,6 @@
 # TWINKLE LIGHTS
 
-[![CIRCUIT VIDEO](assets/preview.png)](assets/video.mp4)
+[![CIRCUIT VIDEO](assets/preview.png)](assets/video.gif)
 
 ## Project Description
 
