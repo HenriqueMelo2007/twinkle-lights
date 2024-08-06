@@ -4,7 +4,7 @@
 
 ## Project Description
 
-This project involves an Arduino-controlled LED blinking system that uses a protoboard to power a set of 40 LEDs. The setup is connected through pin 10 of the Arduino board, which serves as the power supply to the protoboard. Each LED blinks at an interval of 200 milliseconds, creating a consistent rhythm that resembles a blinking light display.
+This project involves an Arduino-controlled LED blinking system that uses a breadboard to power a set of 40 LEDs. The setup is connected through pin 10 of the Arduino board, which serves as the power supply to the breadboard. Each LED blinks at an interval of 200 milliseconds, creating a consistent rhythm that resembles a blinking light display.
 
 ## Components
 
