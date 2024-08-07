@@ -44,7 +44,7 @@ To clone this repository to your local machine, follow these steps:
 2. **Clone Repository**: Use the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/HenriqueMelo2007/twinkle-lights.git
 
 
 ## License
